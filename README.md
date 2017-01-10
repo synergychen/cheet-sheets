@@ -1,1 +1,1 @@
-# Cheetsheets For Life Test
+# Cheet Sheets For Life Test
