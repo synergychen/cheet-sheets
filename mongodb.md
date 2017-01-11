@@ -4,7 +4,7 @@
 
 List collection sizes in descending order.
 
-```
+```bash
 function getReadableFileSizeString(fileSizeInBytes) {
 
     var i = -1;
