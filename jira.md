@@ -1,6 +1,8 @@
-# Filters
+# JIRA Cheet Sheet
 
-## Custom Filters
+## Filters
+
+### Custom Filters
 
 By `Add gadget` on dashboard and add following filters, we are able to cascading gadget by ticket status.
 
