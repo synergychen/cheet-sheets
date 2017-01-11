@@ -1,4 +1,6 @@
-# Exclude Files Locally
+# Git Cheet Sheet
+
+## Exclude Files Locally
 
 Exclude file from showing when `git status`
 
