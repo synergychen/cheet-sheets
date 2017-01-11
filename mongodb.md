@@ -1,5 +1,18 @@
 # MongoDB Cheet Sheet
 
+## Basic
+
+```
+# show databases
+show dbs
+# use database
+use <db_name>
+# show collections
+show collections
+# find all documents of a collection
+db.<collection_name>.find()
+```
+
 ## List Collection Sizes
 
 List collection sizes in descending order.
