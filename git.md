@@ -2,14 +2,20 @@
 
 ## Exclude Files Locally
 
-Exclude file from showing when `git status`
+To exclude file from showing when `git status`
 
 ```
 git update-index --assume-unchanged <file name>
 ```
 
-Undo exclude
+To undo exclude
 
 ```
 git update-index --no-assume-unchanged <file name>
+```
+
+To view all excluded files
+
+```
+git ls-files -v | grep '^[[:lower:]]'
 ```
