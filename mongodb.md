@@ -19,7 +19,6 @@ List collection sizes in descending order.
 
 ```bash
 function getReadableFileSizeString(fileSizeInBytes) {
-
     var i = -1;
     var byteUnits = [' kB', ' MB', ' GB', ' TB', 'PB', 'EB', 'ZB', 'YB'];
     do {
