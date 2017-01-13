@@ -33,3 +33,11 @@ collectionNames.forEach(function (n) { stats.push(db.getCollection(n).stats()); 
 stats = stats.sort(function(a, b) { return b['size'] - a['size']; });
 for (var c in stats) { print(stats[c]['ns'] + ": " + getReadableFileSizeString(stats[c]['size']) + " (" + getReadableFileSizeString(stats[c]['storageSize']) + ")"); }
 ```
+
+## List Collections From Shell
+
+List collections from shell
+
+```bash
+mongo <db_name> --quiet --eval 'db.getCollectionNames()'
+```
