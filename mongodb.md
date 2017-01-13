@@ -41,3 +41,11 @@ List collections from shell
 ```bash
 mongo <db_name> --quiet --eval 'db.getCollectionNames()'
 ```
+
+## Allow Reads on Secondary
+
+Let mongo know we are going to read on secondaries
+
+```bash
+rs.slaveOk()
+```
