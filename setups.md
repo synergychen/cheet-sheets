@@ -30,6 +30,10 @@
   * [rbenv/rvm](#rbenv-rvm)
 
 * [Command Line Tools](#command-line-tools)
+  * [bundler](#bundler)
+  * [git](#git)
+  * [homebrew](#homebrew)
+  * [ruby-build](#ruby-build)
   * [tmux](#tmux)
   * [wget](#wget)
   * [zsh](#zsh)
