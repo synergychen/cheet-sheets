@@ -1,4 +1,4 @@
-# Setups
+# Setup
 
 * [Apps](#apps)
   * [1Password](#1password)
