@@ -11,6 +11,7 @@
   * [Sublime Text](#sublime-text)
   * [Trello](#trello)
   * [Xcode](#xcode)
+  * [iTerm](#iterm)
   
 * [Congifurations](#configurations)
   * [.gitconfig](#gitconfig)
