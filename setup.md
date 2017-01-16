@@ -1,5 +1,7 @@
 # Setup
 
+## Table of Contents
+
 * [Apps](#apps)
   * [1Password](#1password)
   * [Alfred](#alfred)
