@@ -6,5 +6,6 @@ Table of Contents
 * [JavaScript (Airbnb)](https://github.com/airbnb/javascript)
 * [JavaScript (Google)](https://google.github.io/styleguide/javascriptguide.xml)
 * [Python](https://google.github.io/styleguide/pyguide.html)
+* [RSpec](http://betterspecs.org/)
 * [Ruby](https://github.com/bbatsov/ruby-style-guide)
 * [Shell](https://google.github.io/styleguide/shell.xml)
