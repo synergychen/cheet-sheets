@@ -8,6 +8,7 @@
   * [Caffeine](#caffeine)
   * [Cinch](#cinch)
   * [Chrome](#chrome)
+  * [Dash](#dash)
   * [Dropbox](#dropbox)
   * [Pocket](#pocket)
   * [Slack](#slack)
