@@ -42,6 +42,7 @@
   * [homebrew](#homebrew)
   * [nmap](#nmap)
   * [ruby-build](#ruby-build)
+  * [the_silver_searcher](#the-silver-searcher)
   * [tmux](#tmux)
   * [wget](#wget)
   * [zsh](#zsh)
