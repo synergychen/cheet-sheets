@@ -46,3 +46,7 @@
   * [tmux](#tmux)
   * [wget](#wget)
   * [zsh](#zsh)
+
+## How to Setup
+
+Install from [dotfile](https://github.com/tolearn2/dotfiles) and [Bewfile](https://github.com/tolearn2/dotfiles/blob/master/Brewfile).
