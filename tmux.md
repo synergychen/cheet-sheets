@@ -26,18 +26,25 @@ prefix + K
 # rename session
 tmux rename-session <name>
 ```
+## Window
+
+```bash
+# split new window vertical
+prefix + |
+# split new window horizontal
+prefix + -
+# navigate between windows
+ctrl + h/j/k/l
+# scroll window history
+prefix + [
+```
 
 ## Pane
 
 ```bash
 # create new pane
 prefix + c
-# split pane vertical
-prefix + |
-# split pane horizontal
-prefix + -
 # switch pane
-ctrl + h/j/k/l
 prefix + number
 # kill pane
 prefix + x
