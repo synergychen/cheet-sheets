@@ -42,10 +42,18 @@ List collections from shell
 mongo <db_name> --quiet --eval 'db.getCollectionNames()'
 ```
 
-## Allow Reads on Secondary
+## Allow Reads on Secondary/Slave
 
 Let mongo know we are going to read on secondaries
 
 ```bash
 rs.slaveOk()
+```
+
+## Find Master Node From Slave
+
+The value of `primary` key from returned result is master node.
+
+```
+db.runCommand("ismaster")
 ```
