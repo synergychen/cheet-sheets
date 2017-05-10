@@ -68,7 +68,7 @@ show dbs
 mongo localhost/<db_name> migrate-script.js
 ```
 
-In `migrate-script.js`
+in `migrate-script.js`
 
 ```
 db.<source-table-name>.find().forEach(function (sourceRecord) {
