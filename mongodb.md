@@ -57,3 +57,22 @@ The value of `primary` key from returned result is master node.
 ```
 db.runCommand("ismaster")
 ```
+
+## Migrate Data
+
+```
+# find target db
+mongo
+show dbs
+# migrate with script
+mongo localhost/<db_name> migrate-script.js
+```
+
+In `migrate-script.js`
+
+```
+db.<source-table-name>.find().forEach(function (sourceRecord) {
+    const targetRecord = {...};
+    db.<target-table-name>.insert(targetRecord);
+});
+```
