@@ -10,10 +10,10 @@
 
 ## Databases and NoSQL Datastores
 
-* mongoDB
+* MongoDB
 * PostgreSQL
 * MySQL
-* redis
+* Redis
 * Elasticsearch
 
 ## Client Libraries
@@ -41,3 +41,7 @@
 * Firebase
 * Heroku
 * Google Cloud Platform
+
+## Editor
+
+* Vim
