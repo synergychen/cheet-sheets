@@ -9,3 +9,11 @@
 |`:map`|display all key mappings, `n` for normal mode, `i` for insert mode|
 |`:nmap`|display all normal mode key mappings|
 |`:set paste`, `:set nopaste`|enable/disable paste as normal text editor|
+
+## Snippets
+
+[UltiSnips](https://github.com/SirVer/ultisnips) is used for custom snippets.
+
+|key|description|
+|---|---|
+|`:UltiSnipsEdit`|edit snippet of current file type|
