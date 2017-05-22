@@ -10,6 +10,12 @@
 |`:nmap`|display all normal mode key mappings|
 |`:set paste`, `:set nopaste`|enable/disable paste as normal text editor|
 
+## Shortcuts
+
+|key|description|
+|---|---|
+|`:e %<.js`, `:e %:r.js`|open same file name with different extension|
+
 ## Snippets
 
 [UltiSnips](https://github.com/SirVer/ultisnips) is used for custom snippets.
