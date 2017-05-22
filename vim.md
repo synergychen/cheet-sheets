@@ -14,6 +14,7 @@
 
 |key|description|
 |---|---|
+|`:command <alias> <origin command>`|align command|
 |`:e %<.js`, `:e %:r.js`|open same file name with different extension|
 
 ## Snippets
