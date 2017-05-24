@@ -8,14 +8,23 @@
 |`:imap`|display all insert mode key mappings|
 |`:map`|display all key mappings, `n` for normal mode, `i` for insert mode|
 |`:nmap`|display all normal mode key mappings|
-|`:set paste`, `:set nopaste`|enable/disable paste as normal text editor|
 
 ## Shortcuts
+
+### Normal Mode
+
+|key|description|
+|---|---|
+|`ci"`, `ci'`, `ci(`, ...|replace string between `'`, `"`, `(` ...|
+
+### Command Line Mode
 
 |key|description|
 |---|---|
 |`:command <alias> <origin command>`|align command|
 |`:e %<.js`, `:e %:r.js`|open same file name with different extension|
+|`:set paste`, `:set nopaste`|enable/disable paste as normal text editor|
+|`:silent !open .`|open current folder in finder|
 
 ## Snippets
 
