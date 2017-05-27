@@ -40,6 +40,7 @@
   * [cask](#cask)
   * [git](#git)
   * [homebrew](#homebrew)
+  * [keep](https://github.com/Orkohunter/keep)
   * [nmap](#nmap)
   * [ruby-build](#ruby-build)
   * [the_silver_searcher](#the-silver-searcher)
