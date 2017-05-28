@@ -40,6 +40,7 @@
   * [cask](#cask)
   * [git](#git)
   * [homebrew](#homebrew)
+  * [jq](#jq)
   * [keep](https://github.com/Orkohunter/keep)
   * [nmap](#nmap)
   * [ruby-build](#ruby-build)
