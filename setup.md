@@ -11,6 +11,7 @@
   * [Dash](#dash)
   * [Dropbox](#dropbox)
   * [Pocket](#pocket)
+  * [Skitch](#skitch)
   * [Slack](#slack)
   * [Sublime Text](#sublime-text)
   * [Trello](#trello)
