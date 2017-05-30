@@ -10,6 +10,7 @@
   * [Chrome](#chrome)
   * [Dash](#dash)
   * [Dropbox](#dropbox)
+  * [Keyboard Maestro](https://www.keyboardmaestro.com)
   * [Pocket](#pocket)
   * [Skitch](#skitch)
   * [Slack](#slack)
