@@ -12,6 +12,7 @@
   * [Dropbox](#dropbox)
   * [Keyboard Maestro](https://www.keyboardmaestro.com)
   * [Pocket](#pocket)
+  * [Postman](https://www.getpostman.com/)
   * [Skitch](#skitch)
   * [Slack](#slack)
   * [Sublime Text](#sublime-text)
