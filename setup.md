@@ -10,6 +10,7 @@
   * [Chrome](#chrome)
   * [Dash](#dash)
   * [Dropbox](#dropbox)
+  * [Gitify](https://github.com/manosim/gitify)
   * [Keyboard Maestro](https://www.keyboardmaestro.com)
   * [Pocket](#pocket)
   * [Postman](https://www.getpostman.com/)
