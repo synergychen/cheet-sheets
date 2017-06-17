@@ -21,6 +21,7 @@
 
 |key|description|
 |---|---|
+|`:Gbrowse`|open current file in github, require `vim-fugitive`|
 |`:command <alias> <origin command>`|align command|
 |`:e %<.js`, `:e %:r.js`|open same file name with different extension|
 |`:set paste`, `:set nopaste`|enable/disable paste as normal text editor|
