@@ -76,3 +76,14 @@ db.<source-table-name>.find().forEach(function (sourceRecord) {
     db.<target-table-name>.insert(targetRecord);
 });
 ```
+
+## Index
+
+```
+# get indexes of a collection
+db.<collection-name>.getIndexes()
+# remove index
+db.<collection-name>.dropIndex({"<field1>": 1, "<field2>": 1})
+# create index
+db.<collection-name>.createIndex({"<field1>": 1, "<field2>": 1})
+```
