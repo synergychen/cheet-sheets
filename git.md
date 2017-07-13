@@ -19,3 +19,10 @@ To view all excluded files
 ```
 git ls-files -v | grep '^[[:lower:]]'
 ```
+
+## Checkout
+
+```
+# checkout previous branch
+git checkout -
+```
