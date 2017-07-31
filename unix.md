@@ -29,3 +29,7 @@ Create a reference to file or dir, and it will be remain but not reference origi
 ```
 ln -s <path/to/origin> <path/to/linked-file>
 ```
+
+## Authorize User to SSH Server
+
+Append pub key to `.ssh/authorized_keys`.
