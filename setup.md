@@ -7,7 +7,7 @@
   * [Alfred](#alfred)
   * [Caffeine](#caffeine)
   * [Cinch](#cinch)
-  * [Charles](#https://www.charlesproxy.com/)
+  * [Charles](#charles)
   * [Chrome](#chrome)
   * [Dash](#dash)
   * [Dropbox](#dropbox)
