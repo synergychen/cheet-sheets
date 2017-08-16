@@ -40,6 +40,7 @@
   * [rbenv/rvm](#rbenv-rvm)
 
 * [Command Line Tools](#command-line-tools)
+  * [aria2](#aria2)
   * [awscli](#awscli)
   * [bundler](#bundler)
   * [cask](#cask)
