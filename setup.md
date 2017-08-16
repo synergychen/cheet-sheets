@@ -21,6 +21,7 @@
   * [Trello](#trello)
   * [Xcode](#xcode)
   * [iTerm](#iterm)
+  * [Zed Attack Proxy](#zed-attack-proxy)
   
 * [Congifurations](#configurations)
   * [.gitconfig](#gitconfig)
