@@ -45,6 +45,7 @@
   * [awscli](#awscli)
   * [bundler](#bundler)
   * [cask](#cask)
+  * [ctags](#ctags)
   * [git](#git)
   * [homebrew](#homebrew)
   * [jq](#jq)
